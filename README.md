@@ -1,3 +1,3 @@
 # reDirecto
 A Windows application which redirects you and provides you its service.
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![SnapShot of Application](https://github.com/VedantKhairnar/reDirecto/blob/master/reDirectoSnap.png)
